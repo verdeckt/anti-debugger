@@ -10,8 +10,8 @@ What's Inside the Project? :
 
 [+] Basic attach detection
 
-[?] Obfuscating Code to Make It Harder to Reverse (soon)
+[+] Obfuscating Code to Make It Harder to Reverse
 
-[?] heartbeat method (soon)
+[+] heartbeat method
 
-[?] integration check (soon)
+[+] virtualizing code
